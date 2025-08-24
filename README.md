@@ -21,6 +21,7 @@ Concatenates the first name and last name into a full name.
 Prints a personalized greeting message using the full name.
 
 output:
-![Uploading image.png…]()
+<img width="587" height="320" alt="image" src="https://github.com/user-attachments/assets/c98512c3-0d05-4fce-a5fe-02aa247383a4" />
+
 
 
