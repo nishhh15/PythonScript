@@ -73,5 +73,23 @@ output:<img width="588" height="231" alt="Screenshot 2025-10-05 105419" src="htt
 
 
 
+Task 7: Read a File and Handle Errors
+Opens and reads a text file named sample.txt.
+Prints its content line by line.
+Handles errors gracefully if the file does not exist.
+
+output:<img width="912" height="100" alt="Screenshot 2025-10-05 114647" src="https://github.com/user-attachments/assets/3df21dfd-edbe-453a-afd4-e0b85a69969a" />
+
+
+
+
+Task 8:Write and Append Data to a File
+Takes user input and writes it to a file named output.txt.
+Appends additional data to the same file.
+Reads and displays the final content of the file.
+
+output: <img width="953" height="389" alt="Screenshot 2025-10-05 115147" src="https://github.com/user-attachments/assets/47ecaace-94e4-4968-b384-4b7a852bf53e" />
+
+
 
 
