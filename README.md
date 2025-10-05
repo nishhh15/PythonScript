@@ -25,3 +25,29 @@ output:
 
 
 
+
+Task 3:Check if a Number is Even or Odd
+
+Takes an integer input from the user.
+Checks whether the number is even or odd using an if-else statement.
+Displays the result accordingly.
+
+output:
+<img width="1676" height="267" alt="Screenshot 2025-10-05 101731" src="https://github.com/user-attachments/assets/e102bc43-3b96-4aca-8787-78be3a9c897b" />
+<img width="1713" height="661" alt="Screenshot 2025-10-05 101805" src="https://github.com/user-attachments/assets/9978d4ef-555f-4902-8a16-d3c4bdb26b37" />
+
+
+
+
+Task 4: Sum of Integers from 1 to 50 Using a Loop
+ 
+Uses a for loop to iterate over numbers from 1 to 50.
+Calculates the sum of all integers in this range.
+Displays the final sum.
+
+output:
+<img width="1643" height="619" alt="Screenshot 2025-10-05 102755" src="https://github.com/user-attachments/assets/c7a603d8-e0c6-4247-8315-62428b2feb80" />
+
+
+
+
