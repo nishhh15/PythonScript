@@ -51,3 +51,27 @@ output:
 
 
 
+Task 5:Calculate Factorial Using a Function 
+
+Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
+Returns the calculated factorial.
+Calls the function with a sample number and prints the output.
+
+output:<img width="1829" height="702" alt="Screenshot 2025-10-05 104843" src="https://github.com/user-attachments/assets/7a386981-b43b-445c-9b12-23358f39b305" />
+
+Task 6: Using the Math Module for Calculations
+
+Asks the user for a number as input.
+Uses the math module to calculate the:
+  o   Square root of the number
+  o   Natural logarithm (log base e) of the number
+  o   Sine of the number (in radians)
+Displays the calculated results.
+
+output:<img width="588" height="231" alt="Screenshot 2025-10-05 105419" src="https://github.com/user-attachments/assets/28318476-3e3d-496b-8678-6561ba78d68b" />
+
+
+
+
+
+
